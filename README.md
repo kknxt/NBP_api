@@ -14,3 +14,5 @@ Wywołany bez parametru poda cenę złota z dzisiaj, a z parametrem poda cenę z
 ## Wywołanie z parametrem daty:
 ![usg_z](screenshots/wywolanie_z.png)
 
+## Wynik:
+![z](screenshots/output_z.png)
